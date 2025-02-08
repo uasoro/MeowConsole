@@ -9,12 +9,12 @@ MeowConsole is a console application with a cute cat that communicates with the 
           > ^ <
 
 ### Installation
-
 ```
 git clone https://github.com/uasoro/MeowConsole
 ```
 ### Future updates
+* Add the ability to “pet” the cat
+* The cat will be able to walk and jump
 * Update ascii image
 * Аdd more messages and emotion
-* The cat will be able to walk and jump
 * Better message display
